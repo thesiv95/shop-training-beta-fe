@@ -1,10 +1,9 @@
 import React from 'react'
 
-export default function Auth() {
+export default function Shop() {
     return (
         <div>
-            Auth
+            Shop
         </div>
     )
 }
-
